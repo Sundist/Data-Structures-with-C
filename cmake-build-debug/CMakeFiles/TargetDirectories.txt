@@ -1,0 +1,3 @@
+/Users/sundisttt/CLionProjects/Data-Structures-with-C/cmake-build-debug/CMakeFiles/Data_Structures_with_C.dir
+/Users/sundisttt/CLionProjects/Data-Structures-with-C/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/sundisttt/CLionProjects/Data-Structures-with-C/cmake-build-debug/CMakeFiles/rebuild_cache.dir
