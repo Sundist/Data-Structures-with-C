@@ -1,7 +1,10 @@
 # ninja log v5
-1	451	1660760638234075043	CMakeFiles/Data_Structures_with_C.dir/quickSort.c.o	4d355892aead7a50
-0	451	1660760638233867976	CMakeFiles/Data_Structures_with_C.dir/deneme.c.o	89a509bd807d6dd
-0	119	1660760657883146483	build.ninja	df359a38e2068ac7
-1	97	1660760657992469851	Data_Structures_with_C	51aaac7eb96898bd
 0	64	1660760674834220316	CMakeFiles/Data_Structures_with_C.dir/quickSort.c.o	4d355892aead7a50
+0	119	1661866246375120009	build.ninja	df359a38e2068ac7
 65	148	1660760674922717083	Data_Structures_with_C	51aaac7eb96898bd
+12	101	1661866253887769516	CMakeFiles/Data_Structures_with_C.dir/quickSort.c.o	ce372bc1c9ecfdf3
+101	161	1661866253945987579	Data_Structures_with_C	6c7756357d720589
+1	107	1661866355772429957	CMakeFiles/Data_Structures_with_C.dir/quickSort.c.o	ce372bc1c9ecfdf3
+107	159	1661866355825558160	Data_Structures_with_C	6c7756357d720589
+0	90	1661866380806300519	CMakeFiles/Data_Structures_with_C.dir/quickSort.c.o	ce372bc1c9ecfdf3
+91	152	1661866380867142661	Data_Structures_with_C	6c7756357d720589
