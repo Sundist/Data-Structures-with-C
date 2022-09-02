@@ -46,7 +46,7 @@ int delete(int arr[], int value) {
 
 int main() {
     int array[DEFAULT_CAPACITY];
-    for (int i = 0; i < DEFAULT_CAPACITY + 3; i++)
+    for (int i = 0; i < DEFAULT_CAPACITY; i++)
         add(array, i * 6 + 7);
 
     printf("%d\n", getSize());
