@@ -59,9 +59,8 @@ int search(struct Node *root, int data) {
     else {
         if (data < root->data)
             search(root->left, data);
-        else if (data > root->data) {
+        else if (data > root->data)
             search(root->right, data);
-        }
     }
     return -1;
 }
