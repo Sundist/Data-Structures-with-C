@@ -1,0 +1,11 @@
+# ninja log v5
+1	465	1662124418822115623	CMakeFiles/Data_Structures_with_C.dir/BSTree.c.o	189dc566d118bf1d
+466	556	1662124418918874347	Data_Structures_with_C	1ecee685b9940983
+1	113	1662124475071988497	CMakeFiles/Data_Structures_with_C.dir/BSTree.c.o	189dc566d118bf1d
+114	195	1662124475160500303	Data_Structures_with_C	1ecee685b9940983
+1	113	1662124511404280785	CMakeFiles/Data_Structures_with_C.dir/BSTree.c.o	189dc566d118bf1d
+113	200	1662124511493541212	Data_Structures_with_C	1ecee685b9940983
+1	119	1662124756209455227	CMakeFiles/Data_Structures_with_C.dir/BSTree.c.o	189dc566d118bf1d
+119	207	1662124756301943926	Data_Structures_with_C	1ecee685b9940983
+2	82	1662124778064314532	CMakeFiles/Data_Structures_with_C.dir/BSTree.c.o	189dc566d118bf1d
+83	145	1662124778128896524	Data_Structures_with_C	1ecee685b9940983
