@@ -59,8 +59,7 @@ struct Node *delete(struct Node *node, int value) {
     struct Node *iter = node;
     while (iter->next->data != value)
         iter = iter->next;
-    struct Node *temp = iter;
-    temp->next = iter->next->next;
+    struct Node *temp = iter->next;
     iter->next = temp->next;
     free(temp);
     return node;
@@ -94,12 +93,13 @@ int main() {
     for (int i = 0; i < 5; ++i)
         add(head, rand() % 10000);
 
-    printf("%d\n", getSize(head));
+    printf("Cİrcular Linked List's size is: %d\n", getSize(head));
     printList(head);
 
-    head = delete(head, 111);
-    printf("%d\n", getSize(head));
+    delete(head, 111);
+    printf("Cİrcular Linked List's size is: %d\n", getSize(head));
     printList(head);
+
 
 }
 
