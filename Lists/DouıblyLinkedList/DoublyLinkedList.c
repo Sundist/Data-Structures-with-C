@@ -59,7 +59,7 @@ struct Node *add(struct Node *node, int value) {
 
 struct Node *delete(struct Node *node, int value) {
     if (node == NULL)
-        return node;
+        return NULL;
 
     struct Node *iter = node;
     while (iter->next->data != value && iter->next != NULL)
@@ -72,8 +72,6 @@ struct Node *delete(struct Node *node, int value) {
 
     return node;
 }
-
-struct Node *deleteAt(struct Node *node, int index);
 
 int main() {
     struct Node *head = (struct Node *) malloc(sizeof(struct Node));
@@ -92,5 +90,9 @@ int main() {
     printList(head);
     printf("Size of the Doubly Llinked List is: %d\n", getSize(head));
 
+
+    delete(head, 42);
+    printList(head);
+    printf("Size of the Doubly Llinked List is: %d\n", getSize(head));
 
 }
