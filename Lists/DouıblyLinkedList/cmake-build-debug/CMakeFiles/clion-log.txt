@@ -1,4 +1,4 @@
-/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/Applications/CLion.app/Contents/bin/ninja/mac/ninja -G Ninja -S /Users/sundisttt/CLionProjects/Data-Structures-with-C/Lists/DouıblyLinkedList -B /Users/sundisttt/CLionProjects/Data-Structures-with-C/Lists/DouıblyLinkedList/cmake-build-debug
+/snap/clion/204/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/snap/clion/204/bin/ninja/linux/ninja -G Ninja -S /home/sundist/CLionProjects/Data-Structures-with-C/Lists/DouıblyLinkedList -B /home/sundist/CLionProjects/Data-Structures-with-C/Lists/DouıblyLinkedList/cmake-build-debug
 -- Configuring done
 -- Generating done
--- Build files have been written to: /Users/sundisttt/CLionProjects/Data-Structures-with-C/Lists/DouıblyLinkedList/cmake-build-debug
+-- Build files have been written to: /home/sundist/CLionProjects/Data-Structures-with-C/Lists/DouıblyLinkedList/cmake-build-debug

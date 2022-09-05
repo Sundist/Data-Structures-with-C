@@ -64,9 +64,10 @@ struct Node *delete(struct Node *node, int value) {
     struct Node *iter = node;
     while (iter->next->data != value && iter->next != NULL)
         iter = iter->next;
-    struct Node *temp = iter;
-    temp->next = iter->next->next;
+
+    struct Node *temp = iter->next;
     iter->next = temp->next;
+    temp->next->prev = iter;
     free(temp);
 
     return node;
@@ -87,7 +88,7 @@ int main() {
     printList(head);
     printf("Size of the Doubly Llinked List is: %d\n", getSize(head));
 
-    head = delete(head, 111);
+    delete(head, 111);
     printList(head);
     printf("Size of the Doubly Llinked List is: %d\n", getSize(head));
 

@@ -1,3 +1,3 @@
-/Users/sundisttt/CLionProjects/Data-Structures-with-C/Lists/DouıblyLinkedList/cmake-build-debug/CMakeFiles/Data_Structures_with_C.dir
-/Users/sundisttt/CLionProjects/Data-Structures-with-C/Lists/DouıblyLinkedList/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/sundisttt/CLionProjects/Data-Structures-with-C/Lists/DouıblyLinkedList/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/sundist/CLionProjects/Data-Structures-with-C/Lists/DouıblyLinkedList/cmake-build-debug/CMakeFiles/Data-Structures-with-C.dir
+/home/sundist/CLionProjects/Data-Structures-with-C/Lists/DouıblyLinkedList/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/sundist/CLionProjects/Data-Structures-with-C/Lists/DouıblyLinkedList/cmake-build-debug/CMakeFiles/rebuild_cache.dir

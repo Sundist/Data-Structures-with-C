@@ -1,5 +1,4 @@
 # ninja log v5
-1	485	1661442428272748823	CMakeFiles/Data_Structures_with_C.dir/arrayList.c.o	6e0ace19abd6154f
-485	583	1661442428374109574	Data_Structures_with_C	f3a4d9eef0165e6a
-1	248	1662104676274993545	CMakeFiles/Data_Structures_with_C.dir/arrayList.c.o	6e0ace19abd6154f
 248	323	1662104676350261723	Data_Structures_with_C	f3a4d9eef0165e6a
+0	32	1662398694217724456	CMakeFiles/Data-Structureswith-C.dir/arrayList.c.o	6887fc10aa662239
+32	47	1662398694233724562	Data-Structureswith-C	e2be3e527140aa0f

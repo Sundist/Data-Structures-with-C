@@ -1,4 +1,10 @@
-/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/Applications/CLion.app/Contents/bin/ninja/mac/ninja -G Ninja -S /Users/sundisttt/CLionProjects/Data-Structures-with-C/Lists/CircularLinkedList -B /Users/sundisttt/CLionProjects/Data-Structures-with-C/Lists/CircularLinkedList/cmake-build-debug
+/snap/clion/204/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/snap/clion/204/bin/ninja/linux/ninja -G Ninja -S /home/sundist/CLionProjects/Data-Structures-with-C/Lists/CircularLinkedList -B /home/sundist/CLionProjects/Data-Structures-with-C/Lists/CircularLinkedList/cmake-build-debug
+-- The C compiler identification is GNU 9.4.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
 -- Configuring done
 -- Generating done
--- Build files have been written to: /Users/sundisttt/CLionProjects/Data-Structures-with-C/Lists/CircularLinkedList/cmake-build-debug
+-- Build files have been written to: /home/sundist/CLionProjects/Data-Structures-with-C/Lists/CircularLinkedList/cmake-build-debug
