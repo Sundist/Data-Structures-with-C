@@ -1,3 +1,3 @@
-/home/sundist/CLionProjects/Data-Structures-with-C/Lists/CircularLinkedList/cmake-build-debug/CMakeFiles/Data-Structureswith-C.dir
-/home/sundist/CLionProjects/Data-Structures-with-C/Lists/CircularLinkedList/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/sundist/CLionProjects/Data-Structures-with-C/Lists/CircularLinkedList/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/sundisttt/CLionProjects/Data-Structures-with-C/Lists/CircularLinkedList/cmake-build-debug/CMakeFiles/Data-Structureswith-C.dir
+/Users/sundisttt/CLionProjects/Data-Structures-with-C/Lists/CircularLinkedList/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/sundisttt/CLionProjects/Data-Structures-with-C/Lists/CircularLinkedList/cmake-build-debug/CMakeFiles/rebuild_cache.dir
