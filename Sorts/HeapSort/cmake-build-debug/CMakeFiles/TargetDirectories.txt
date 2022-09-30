@@ -1,0 +1,3 @@
+/home/sundist/CLionProjects/Data-Structures-with-C/Sorts/HeapSort/cmake-build-debug/CMakeFiles/Data-Structureswith-C.dir
+/home/sundist/CLionProjects/Data-Structures-with-C/Sorts/HeapSort/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/sundist/CLionProjects/Data-Structures-with-C/Sorts/HeapSort/cmake-build-debug/CMakeFiles/rebuild_cache.dir
