@@ -18,6 +18,7 @@ int main() {
     for (int i = 0; i < SIZE; ++i) {
         arr[i] = rand() % 1000 + 1;
         printf("%d, ", arr[i]);
+
     }
     printf("\nSorted Array:\n");
     quickSort(arr, 0, SIZE - 1);
