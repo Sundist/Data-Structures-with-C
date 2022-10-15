@@ -2,6 +2,7 @@
 // Created by Sundist on 25.08.2022.
 //
 #include <stdio.h>
+#include <stdlib.h>
 
 int DEFAULT_CAPACITY = 16;
 int SIZE = 0;
@@ -19,18 +20,15 @@ void printArrayList(int arr[]) {
 }
 
 int add(int arr[], int value) {
-    if (SIZE + 1 < DEFAULT_CAPACITY)
-        arr[SIZE + 1] = value;
-    else {
-        int arr2[DEFAULT_CAPACITY * 2];
+    if (SIZE >= DEFAULT_CAPACITY) {
+        int arr2[] = malloc(sizeof(int) * DEFAULT_CAPACITY * 2);
         for (int i = 0; i < SIZE; ++i)
             arr2[i] = arr[i];
-        arr2[SIZE + 1] = value;
-        arr[DEFAULT_CAPACITY * 2];
-        for (int i = 0; i < SIZE; ++i)
-            arr[i] = arr2[i];
+        arr = arr2;
+        DEFAULT_CAPACITY *= 2;
     }
-    SIZE++;
+
+    arr[SIZE++] = value;
     return *arr;
 }
 
