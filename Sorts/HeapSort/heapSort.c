@@ -8,25 +8,20 @@
 int SIZE = 0;
 int CAPACITY = 15;
 
-void add(int array, int element);
+int add(int array[], int element);
 
-int remove(int array);
+int remove(int array[]);
 
 int main() {
     int list[CAPACITY];
 
 }
 
-void add(int[] array, int element) {
-    array = add(arry, element);
-    int index = SIZE - 1;
-    while (1) {
-
-    }
+int add(int array[], int element) {
 
 }
 
-int remove(int[] array) {
+int remove(int array[]) {
     // son eleman ılk elemana atanacak
     array[0] = array[SIZE - 1];
     // son eleman arryden cıkartılacak
